@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Fitadel\Fitadel\bin\Debug\Fitadel.exe.config
+C:\Users\Admin\source\repos\Fitadel\Fitadel\bin\Debug\Fitadel.exe
+C:\Users\Admin\source\repos\Fitadel\Fitadel\bin\Debug\Fitadel.pdb
+C:\Users\Admin\source\repos\Fitadel\Fitadel\obj\Debug\Fitadel.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Fitadel\Fitadel\obj\Debug\Fitadel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Fitadel\Fitadel\obj\Debug\Fitadel.exe
+C:\Users\Admin\source\repos\Fitadel\Fitadel\obj\Debug\Fitadel.pdb
